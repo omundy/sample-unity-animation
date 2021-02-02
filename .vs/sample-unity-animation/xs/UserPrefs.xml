@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{785A3AAE-2E9F-A6F5-0869-86F96BB994F0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Sprite_Animation/Scripts/CharacterMovement.cs">
+    <Files>
+      <File FileName="Assets/_Sprite_Animation/Scripts/CharacterController2D.cs" Line="9" Column="59" />
+      <File FileName="Assets/_Sprite_Animation/Scripts/CharacterMovement.cs" Line="7" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="61be17c8-8a8d-4b85-b4e6-0eac794df9be" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
