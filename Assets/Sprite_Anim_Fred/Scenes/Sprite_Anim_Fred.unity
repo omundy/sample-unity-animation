@@ -2139,9 +2139,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2014400393}
   - component: {fileID: 2014400392}
+  - component: {fileID: 2014400395}
   - component: {fileID: 2014400391}
   - component: {fileID: 2014400394}
-  - component: {fileID: 2014400395}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -2208,7 +2208,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2014400390}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0041599274, y: 2.0881648, z: -10}
+  m_LocalPosition: {x: -0.0041599274, y: 2.088171, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
